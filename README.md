@@ -23,3 +23,9 @@ pip install -r requirements.txt
 ```
 python code/app.py
 ```
+
+## Heroku link to 'stores'
+
+```
+https://stores-rest-api-demo-udemy.herokuapp.com/stores
+```
